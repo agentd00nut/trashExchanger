@@ -15,15 +15,10 @@ Easily upload files to http://trash.exchange/
 
 #    Usage:
  
-     Without any flags or arguments the script will automatically attempt to upload all the files from the path it was run from.
- 
-        It will do this silently... passing "-o" will let you know if it worked or not.
- 
-        Its not smart enough to only try images!
+Without any flags or arguments the script will automatically attempt to upload all the files from the path it was run from.
+It will do this silently... passing "-o" will let you know if it worked or not.
+Its not smart enough to only try images!
 
+Passing a single argument will make the script only attempt to upload that one file.
 
-
-      Passing a single argument will make the script only attempt to upload that one file.
-
-
-      The rest of the flags are fairly self explanatory... Flags with a ":" require an argument. 
+The rest of the flags are fairly self explanatory... Flags with a ":" require an argument. 
