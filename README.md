@@ -2,7 +2,7 @@
 Easily upload files to http://trash.exchange/
 
 
-#Flags:
+# Flags:
 ```
       [-u] upload_path:         Where we should look for images to upload if a single image was not specified.
       [-s] save_response        Should we save the image we received from the trash?
